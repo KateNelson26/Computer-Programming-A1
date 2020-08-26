@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kat's Programming Portfolio 
 
 You can use the [editor on GitHub](https://github.com/KateNelson26/Computer-Programming-A1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
